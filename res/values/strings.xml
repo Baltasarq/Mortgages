@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hipotecas</string>
+    <string name="etq_mortgage">Hipoteca</string>
+    <string name="etq_calculate_mortgage">Calculadora de Hipoteca</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_add">Add</string>
+    <string name="action_back">Back</string>
+    <string name="action_calculate">Calculate</string>
+</resources>
